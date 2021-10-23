@@ -10,4 +10,5 @@ package cn.knightzz.factory;
  * @date 2021/10/23 16:20
  */
 public class BeanFactory {
+
 }

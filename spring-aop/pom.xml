@@ -11,6 +11,7 @@
     <modules>
         <module>lesson-01-aop</module>
         <module>lesson-02-design-factory</module>
+        <module>lesson-03-transfer</module>
     </modules>
 
     <properties>
